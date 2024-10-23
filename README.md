@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @anoushka-teng
-- 👀 I’m interested in Mathematics
+- 👋 Hi, I’m Anoushka Teng
+- 👀 I’m interested in Mathematics and Statistics
 - 🌱 I’m currently learning Python
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: My favourite colours are blue and grey
